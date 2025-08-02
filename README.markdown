@@ -1,4 +1,4 @@
-# 📈 Portfolio Optimization Dashboard
+# 📈OptiPort: Smart Portfolio Optimization and Advance Financial Analytics Dashboard
 
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue) ![Streamlit](https://img.shields.io/badge/Streamlit-1.0%2B-red) ![Gurobi](https://img.shields.io/badge/Gurobi-9.0%2B-orange)
 
