@@ -108,16 +108,6 @@ Interactive Plotly charts include:
 - Include risk metrics like Sharpe Ratio or Value at Risk (VaR).
 - Enable sentiment analysis from financial news or X posts for enhanced insights.
 
-## 🤝 Contributing
-
-1. Fork the repository.
-2. Create a feature branch (`git checkout -b feature/your-feature`).
-3. Commit changes (`git commit -m 'Add your feature'`).
-4. Push to the branch (`git push origin feature/your-feature`).
-5. Open a pull request.
-
-Ensure code follows PEP 8 and includes tests.
-
 ## 🙏 Acknowledgments
 
 - [Streamlit](https://streamlit.io/) for the web app framework.
@@ -125,10 +115,5 @@ Ensure code follows PEP 8 and includes tests.
 - [Gurobi](https://www.gurobi.com/) for optimization capabilities.
 - [Plotly](https://plotly.com/) for interactive visualizations.
 
-## 📬 Contact
-
-Reach out via [GitHub Issues](https://github.com/your-username/portfolio-optimization-dashboard/issues) or on [X](https://x.com/your-username).
-
----
 
 Optimize your investments! 📈
