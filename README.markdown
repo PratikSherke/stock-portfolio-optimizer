@@ -110,16 +110,6 @@ Charts are styled with custom CSS and Plotly's white template.
 - Enable export of predictions and metrics as CSV or PDF.
 - Optimize training with GPU acceleration.
 
-## 🤝 Contributing
-
-1. Fork the repository.
-2. Create a feature branch (`git checkout -b feature/your-feature`).
-3. Commit changes (`git commit -m 'Add your feature'`).
-4. Push to the branch (`git push origin feature/your-feature`).
-5. Open a pull request.
-
-Ensure code follows PEP 8 and includes tests.
-
 ## 🙏 Acknowledgments
 
 - [Streamlit](https://streamlit.io/) for the web app framework.
@@ -127,10 +117,5 @@ Ensure code follows PEP 8 and includes tests.
 - [TensorFlow](https://www.tensorflow.org/) and [scikit-learn](https://scikit-learn.org/) for ML tools.
 - [Plotly](https://plotly.com/) for visualizations.
 
-## 📬 Contact
-
-Reach out via [GitHub Issues](https://github.com/your-username/stock-price-prediction-dashboard/issues) or on [X](https://x.com/your-username).
-
----
 
 Happy investing! 📈
