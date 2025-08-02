@@ -10,7 +10,7 @@ from gurobipy import GRB
 from math import sqrt
 
 # Streamlit app configuration
-st.set_page_config(page_title="Portfolio Optimization Dashboard", layout="wide")
+st.set_page_config(page_title="Smart Portfolio Optimization and Advance Financial Analytics Dashboard", layout="wide")
 
 # Custom CSS for better styling
 st.markdown("""
